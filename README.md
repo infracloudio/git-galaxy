@@ -12,23 +12,6 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
-Hi I'm Jane Doe.
-
-* Git
-* Kubernetes
-* Killing history using Git rebase
----
-
-hi...... 
-This is mohammed afzal from infracloud 
-skills :  
---> Git
---> github 
---> jenkins
---> apache 
---> nginx
---> apache ignite
---> nagios, grafana , prometheus etc 
 ---
 
 ## License and credits
