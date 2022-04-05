@@ -12,9 +12,23 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
-# Abin Simon
+# Hash
 
-* Not creating merge conflicts
+* Creating more conflicts
+---
+
+# Harsher
+
+- more commit issues
+---
+
+1. Author: Darth Vader <bhavin@infracloud.io>
+2. What he made the changes.
+```
+-* Communicate all the details (*it is okay to overcommunicate*).
++* Don't communicate everything (*that's just waste of time*).
+```
+3. SHA: 7ab8a92a6cdfa8cc4cdc06fbd8a12bae9bcc9bd1
 ---
 
 Hi I'm Jane Doe.
@@ -22,6 +36,11 @@ Hi I'm Jane Doe.
 * Git
 * Kubernetes
 * Killing history using Git rebase
+---
+
+# Abin Simon
+
+* Not creating merge conflicts
 ---
 
 Hi I'm meain.
