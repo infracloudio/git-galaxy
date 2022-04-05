@@ -12,11 +12,24 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
+<<<<<<< HEAD
 # Abin Simon
 
 * Not creating merge conflicts
 ---
 
+=======
+Hi I'm kedar kokil.
+
+* jira
+* openshift
+* ansible
+* kubernetes
+---
+
+Hi, am Nishant Hiremath.---
+
+>>>>>>> 6f56427 (Updated the README.md file)
 Hi I'm Jane Doe.
 
 * Git
