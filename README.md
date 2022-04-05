@@ -24,6 +24,11 @@ Hi I'm Jane Doe.
 * Killing history using Git rebase
 ---
 
+# Hash
+
+* Creating more conflicts
+---
+
 Hi I'm meain.
 
 * Git
