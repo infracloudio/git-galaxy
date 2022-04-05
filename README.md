@@ -17,6 +17,14 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 * Not creating merge conflicts
 ---
 
+Hi I'm Hardik Shingala.
+
+* Git
+* Kubernetes
+* Python
+* Java
+---
+
 Hi I'm Jane Doe.
 
 * Git
