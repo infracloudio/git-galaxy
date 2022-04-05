@@ -12,11 +12,22 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
+# Abin Simon
+
+* Not creating merge conflicts
+---
+
 Hi I'm Jane Doe.
 
 * Git
 * Kubernetes
 * Killing history using Git rebase
+---
+
+Hi I'm meain.
+
+* Git
+* Sleeping
 ---
 
 Hi I'm Vivek Hiwarkar.
