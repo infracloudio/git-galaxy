@@ -17,6 +17,11 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 * Not creating merge conflicts
 ---
 
+# Hash
+
+* Creating more conflicts
+---
+
 Hi I'm Jane Doe.
 
 * Git
@@ -24,13 +29,13 @@ Hi I'm Jane Doe.
 * Killing history using Git rebase
 ---
 
+ Hei..It's Harsha
+---
 
 Hi I'm meain.
 
 * Git
 * Sleeping
----
- Hei..It's Harsha
 ---
 
 ## License and credits
