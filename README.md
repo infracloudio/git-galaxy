@@ -14,7 +14,15 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 Hi Sudhanshu here---
 
+
 Hi I'm Jane Doe.
+
+* Git
+* Kubernetes
+* Killing history using Git rebase
+---
+
+Hi I'm XYZ.
 
 * Git
 * Kubernetes
