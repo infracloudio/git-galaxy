@@ -12,7 +12,7 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
-Hi I'm ABC.
+Hi I'm Jeet.
 
 * Git
 * Kubernetes
