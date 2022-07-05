@@ -13,10 +13,15 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 ---
 
 Hi I'm ABC.
+Hi I'm Sachin Lobo.
 
 * Git
 * Kubernetes
 * Killing history using Git rebase
+<<<<<<< HEAD
+=======
+* Golang
+>>>>>>> 0ec15f2 (Added new crew member)
 ---
 
 Hi I'm Jane Doe.
