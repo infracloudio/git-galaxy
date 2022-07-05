@@ -12,12 +12,8 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
-Hi I'm ABC.
+Hi Sudhanshu here---
 
-* Git
-* Kubernetes
-* Killing history using Git rebase
----
 
 Hi I'm Jane Doe.
 
