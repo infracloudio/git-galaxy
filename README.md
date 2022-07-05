@@ -12,6 +12,12 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
+Hi I'm Bhavesh.
+
+* Git
+* Kubernetes
+---
+
 Hi I'm Jane Doe.
 
 * Git
