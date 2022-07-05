@@ -12,7 +12,7 @@ To add your name read [the contributing documentation](./CONTRIBUTING.md).
 
 ---
 
-Hi Sudhanshu  here---
+Hi Sudhanshu here---
 
 Hi I'm Jane Doe.
 
